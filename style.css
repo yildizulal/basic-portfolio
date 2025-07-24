@@ -550,12 +550,12 @@ img{
     }
 
     .contact-area{
-        width: 17.5rem;
+        width: 20rem;
         height: 120px;
     }
 
     .contact-button{
-        width: 80%;
+        width: 70%;
         font-size: 1rem;
     }
 }
